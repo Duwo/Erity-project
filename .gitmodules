@@ -1,4 +1,3 @@
-[submodule "erity"]
-        path = app
-        url = git@github.com:Duwo/erity.git
-
+[submodule "app"]
+	path = app
+	url = git@github.com:Duwo/erity.git
